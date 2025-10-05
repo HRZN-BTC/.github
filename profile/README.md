@@ -16,7 +16,7 @@ At HRZN, we envision a world where Bitcoin is demystified for everyone. By combi
 
 ## Donations
 
-If you enjoy HRZN’s projects and want to support our continued development, you can contribute Bitcoin directly to help us grow and maintain our tools. Any contribution, large or small, is greatly appreciated and helps fund ongoing innovation:
+If you enjoy HRZN's projects and want to support our continued development, you can contribute Bitcoin directly to help us grow and maintain our tools. Any contribution, large or small, is greatly appreciated and helps fund ongoing innovation:
 
 Bitcoin Wallet Address: `bc1q8w4hs02l3vnyx95hanuc2lyzpvk97ty2fh5ng2`
 
