@@ -1,6 +1,6 @@
-# HRZN
+# HRZN BTC
 
-Welcome to **HRZN** (Hard Money, Resilient, Zero-Trust, Network), a pioneering Bitcoin technology organization dedicated to empowering beginners and enthusiasts with innovative, user-friendly apps and services. Our mission is to bridge the knowledge gap in Bitcoin adoption through education, accessibility, and open-source innovation.
+Welcome to **HRZN BTC** a pioneering Bitcoin technology organization dedicated to empowering beginners and enthusiasts with innovative, user-friendly apps and services. Our mission is to bridge the knowledge gap in Bitcoin adoption through education, accessibility, and open-source innovation.
 
 ## About Us
 HRZN is the parent company behind a growing ecosystem of Bitcoin-focused tools, with our flagship mobile app, [**Odyssey**](https://www.odysseybtc.app), leading the charge. Odyssey is a gamified learning platform designed to make Bitcoin accessible, featuring:
